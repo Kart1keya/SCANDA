@@ -1,1 +1,1 @@
-# SCANDA : Static Code AN Dynamic Analysis
+# SCANDA : Static Code ANd Dynamic Analysis
