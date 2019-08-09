@@ -6,7 +6,7 @@ Presented at:
  <img alt="c0c0n 2018" src="https://is-ra.org/c0c0n/2018/wp-content/uploads/2018/10/mail-logo.png" />
  </a>
 </p>
-References:
+References:<br/>
 https://www.radare.org/get/THC2018.pdf<br/>
 https://github.com/kirschju/richheader<br/>
 https://github.com/pinkflawd/r2graphity<br/>
